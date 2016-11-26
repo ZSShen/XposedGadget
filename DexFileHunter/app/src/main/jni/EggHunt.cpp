@@ -1,6 +1,3 @@
-//
-// Created by userpc on 2016/11/10.
-//
 
 #include "org_zsshen_dexfilehunter_DexFileHunter.h"
 #include <cstdlib>
