@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ZSShen/XposedGadget/master/assets/xposed_gadget_cover.jpg" width="750px/">
+<img src="https://raw.githubusercontent.com/ZSShen/XposedGadget/master/assets/xposed_gadget_cover.jpg" width="650px/">
 
 # XposedGadget
 The Android dynamic analysis gadgets based on [Xposed] framework  
