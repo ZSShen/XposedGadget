@@ -1,15 +1,17 @@
+<img src="https://raw.githubusercontent.com/ZSShen/XposedGadget/master/assets/xposed_gadget_cover.jpg" width="750px/">
+
 # XposedGadget
 The Android dynamic analysis gadgets based on [Xposed] framework  
-See the [slide] for the complete story
+Please check the [slide] for the complete story
 
 
 ### SignatureHunter
-+ To fight against the anti-tamper technique.  
++ To fight against anti-tamper techniques.  
 + Target Malware Sample: [Fobus]
 
 
 ### DexFileHunter
-+ To fight against the native protector  
++ To fight against strong native protectors  
 + Target Malware Sample: [Locker]
 
 
